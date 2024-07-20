@@ -6,7 +6,7 @@
 
 🌟 Passionate about developing and optimising algorithmic trading strategies.  
 
-🌟 I’m currently working on an Algorithmic Trading Model. 
+🌟 Currently working on an Algorithmic Trading Model. 
 
 🌟 Ask my about anything and everything, I would love to connect! 
 
