@@ -1,12 +1,12 @@
 ## Hi, I'm Moiz Saleem! 👋🏼
 
-🌟 Proactive and driven student aspiring to become a **quantitive researcher/trader**.  
+🌟 Proactive and driven student aspiring to become a **quantitive developer**.  
 
 🎓 Pursuing a Bachelors in **Mathematics and Computer Science** at **University of Bristol**. 
 
 🔥 Passionate about developing and optimising **(algorithmic) trading strategies**.  
 
-💻 Currently working on using **Neural Networks to price options**. 
+💻 Currently working on using **a (stealth) startup**. 
 
 🚀 Ask my about anything and everything, **I would love to connect!** 
 
