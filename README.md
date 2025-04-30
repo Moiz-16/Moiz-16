@@ -6,7 +6,7 @@
 
 🔥 Passionate about developing and optimising **(algorithmic) trading strategies**.  
 
-💻 Currently working on using **a (stealth) startup**. 
+💻 Currently working on **exams...**. 
 
 🚀 Ask my about anything and everything, **I would love to connect!** 
 
