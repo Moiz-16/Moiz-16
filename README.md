@@ -4,9 +4,9 @@
 
 🎓 Pursuing a Bachelors in **Mathematics and Computer Science** at **University of Bristol**. 
 
-👨‍🔬 Research Intern at the University of Bristol
+👨‍🔬 **Research Intern** at the **University of Bristol**.
 
-💡 Founder of Nexus - The All-in-One Application Tracker.
+💡 Founder of **Nexus** - The All-in-One Application Tracker.
 
 🔥 Passionate about developing and optimising **(algorithmic) trading strategies**.  
 
